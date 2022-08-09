@@ -5,7 +5,7 @@ npm install @nestjs/cli
 Important Package to Install 
 npm i --save-dev ts-node-dev
 npm i rxjs
-
+ 
 -----------------------
 
 Setup New Project
